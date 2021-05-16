@@ -2,7 +2,7 @@
 namespace Louis;
 class Test 
 {
-    function test()
+    public function test()
     {
         echo "This is my first composer package!";
     }
